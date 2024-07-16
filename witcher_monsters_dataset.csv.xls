@@ -1,0 +1,201 @@
+Monster Name,Location,Monster Population,Rarity,Yearly Human Kill Count,Monster Type,Danger Level
+Basilisk,Kaer Morhen,10,Very Rare,98,Draconid,High
+Wyvern,Toussaint,68,Common,43,Draconid,High
+Siren,Beauclair,35,Uncommon,55,Hybrid,Medium
+Striga,Toussaint,19,Rare,100,Cursed One,Very High
+Hym,Novigrad,12,Very Rare,138,Specter,Very High
+Wyvern,Skellige,75,Common,44,Draconid,High
+Nekker,White Orchard,95,Common,42,Ogroid,Medium
+Basilisk,Toussaint,6,Very Rare,150,Draconid,High
+Lubberkin,Vizima,20,Rare,80,Cursed One,Medium
+Wyvern,Novigrad,54,Common,24,Draconid,High
+Katakan,Vizima,43,Uncommon,68,Vampire,Very High
+Katakan,Beauclair,33,Uncommon,44,Vampire,Very High
+Drowner,Oxenfurt,97,Common,28,Necrophage,Medium
+Alghoul,Velen,89,Common,20,Necrophage,Medium
+Basilisk,Novigrad,6,Very Rare,79,Draconid,High
+Forktail,Skellige,43,Uncommon,66,Draconid,High
+Basilisk,Novigrad,12,Very Rare,141,Draconid,High
+Bruxa,Temeria,20,Rare,85,Vampire,Very High
+Hym,Velen,9,Very Rare,109,Specter,Very High
+Griffin,Vizima,24,Rare,89,Draconid,High
+Foglet,Oxenfurt,36,Uncommon,57,Necrophage,Medium
+Ghoul,Temeria,68,Common,28,Necrophage,Medium
+Foglet,White Orchard,48,Uncommon,41,Necrophage,Medium
+Fleder,Toussaint,79,Common,40,Vampire,High
+Basilisk,Vizima,10,Very Rare,83,Draconid,High
+Katakan,Vizima,47,Uncommon,43,Vampire,Very High
+Alghoul,Temeria,85,Common,33,Necrophage,Medium
+Foglet,Kaer Morhen,31,Uncommon,48,Necrophage,Medium
+Wraith,Novigrad,67,Common,33,Specter,High
+Wyvern,Vizima,89,Common,38,Draconid,High
+Foglet,Velen,41,Uncommon,38,Necrophage,Medium
+Bruxa,Skellige,30,Rare,60,Vampire,Very High
+Hym,Skellige,6,Very Rare,135,Specter,Very High
+Wyvern,Beauclair,97,Common,33,Draconid,High
+Drowner,Vizima,86,Common,25,Necrophage,Medium
+Alghoul,Oxenfurt,65,Common,35,Necrophage,Medium
+Griffin,White Orchard,30,Rare,59,Draconid,High
+Wyvern,White Orchard,90,Common,38,Draconid,High
+Ghoul,Toussaint,80,Common,31,Necrophage,Medium
+Lubberkin,Skellige,20,Rare,75,Cursed One,Medium
+Basilisk,Oxenfurt,7,Very Rare,97,Draconid,High
+Ekimmara,Beauclair,39,Uncommon,35,Vampire,High
+Nightwraith,Novigrad,32,Uncommon,36,Specter,High
+Basilisk,Beauclair,14,Very Rare,90,Draconid,High
+Katakan,Temeria,34,Uncommon,34,Vampire,Very High
+Striga,Toussaint,19,Rare,81,Cursed One,Very High
+Nekker,Temeria,72,Common,42,Ogroid,Medium
+Hym,Temeria,15,Very Rare,137,Specter,Very High
+Botchling,Toussaint,16,Rare,87,Cursed One,Medium
+Foglet,Oxenfurt,35,Uncommon,52,Necrophage,Medium
+Ekimmara,Beauclair,33,Uncommon,44,Vampire,High
+Siren,Velen,42,Uncommon,70,Hybrid,Medium
+Katakan,Novigrad,41,Uncommon,65,Vampire,Very High
+Basilisk,Kaer Morhen,11,Very Rare,104,Draconid,High
+Wyvern,Velen,97,Common,21,Draconid,High
+Hym,Toussaint,5,Very Rare,144,Specter,Very High
+Botchling,Toussaint,21,Rare,79,Cursed One,Medium
+Ghoul,Skellige,71,Common,28,Necrophage,Medium
+Lubberkin,Kaer Morhen,17,Rare,94,Cursed One,Medium
+Wyvern,Beauclair,97,Common,32,Draconid,High
+Botchling,Velen,23,Rare,47,Cursed One,Medium
+Alghoul,Toussaint,67,Common,32,Necrophage,Medium
+Drowner,Vizima,99,Common,26,Necrophage,Medium
+Werewolf,Oxenfurt,27,Rare,76,Cursed One,High
+Ghoul,Velen,64,Common,34,Necrophage,Medium
+Katakan,Vizima,33,Uncommon,57,Vampire,Very High
+Basilisk,Beauclair,12,Very Rare,144,Draconid,High
+Striga,Toussaint,26,Rare,51,Cursed One,Very High
+Nekker,Velen,84,Common,24,Ogroid,Medium
+Forktail,Vizima,47,Uncommon,64,Draconid,High
+Striga,Toussaint,17,Rare,82,Cursed One,Very High
+Leshen,Skellige,5,Very Rare,98,Relict,Very High
+Siren,Beauclair,36,Uncommon,43,Hybrid,Medium
+Striga,Kaer Morhen,24,Rare,85,Cursed One,Very High
+Fleder,Skellige,77,Common,29,Vampire,High
+Drowner,Vizima,57,Common,42,Necrophage,Medium
+Werewolf,Toussaint,20,Rare,59,Cursed One,High
+Striga,Beauclair,22,Rare,74,Cursed One,Very High
+Ghoul,Toussaint,81,Common,33,Necrophage,Medium
+Bruxa,Temeria,20,Rare,46,Vampire,Very High
+Botchling,Beauclair,28,Rare,99,Cursed One,Medium
+Lubberkin,Vizima,29,Rare,65,Cursed One,Medium
+Leshen,Oxenfurt,10,Very Rare,146,Relict,Very High
+Forktail,Vizima,30,Uncommon,67,Draconid,High
+Bruxa,Temeria,26,Rare,78,Vampire,Very High
+Botchling,Kaer Morhen,23,Rare,52,Cursed One,Medium
+Lubberkin,Vizima,22,Rare,46,Cursed One,Medium
+Wyvern,Velen,84,Common,33,Draconid,High
+Fleder,Beauclair,81,Common,33,Vampire,High
+Werewolf,Velen,21,Rare,54,Cursed One,High
+Alghoul,Oxenfurt,96,Common,50,Necrophage,Medium
+Drowner,Velen,51,Common,44,Necrophage,Medium
+Noonwraith,Skellige,15,Rare,62,Specter,High
+Botchling,Kaer Morhen,26,Rare,97,Cursed One,Medium
+Fiend,Temeria,20,Rare,70,Relict,High
+Bruxa,Velen,21,Rare,80,Vampire,Very High
+Ghoul,Velen,78,Common,39,Necrophage,Medium
+Nekker,Beauclair,56,Common,39,Ogroid,Medium
+Siren,Oxenfurt,48,Uncommon,45,Hybrid,Medium
+Alghoul,Beauclair,79,Common,38,Necrophage,Medium
+Alghoul,Toussaint,70,Common,20,Necrophage,Medium
+Ghoul,Oxenfurt,61,Common,50,Necrophage,Medium
+Striga,Velen,19,Rare,80,Cursed One,Very High
+Ekimmara,Toussaint,48,Uncommon,61,Vampire,High
+Wyvern,Vizima,93,Common,44,Draconid,High
+Drowner,Oxenfurt,86,Common,30,Necrophage,Medium
+Lubberkin,Beauclair,20,Rare,66,Cursed One,Medium
+Ghoul,Velen,62,Common,47,Necrophage,Medium
+Nekker,Novigrad,88,Common,43,Ogroid,Medium
+Lubberkin,Toussaint,23,Rare,55,Cursed One,Medium
+Foglet,Temeria,38,Uncommon,55,Necrophage,Medium
+Foglet,Oxenfurt,31,Uncommon,43,Necrophage,Medium
+Lubberkin,Velen,15,Rare,73,Cursed One,Medium
+Forktail,White Orchard,32,Uncommon,63,Draconid,High
+Werewolf,Skellige,18,Rare,98,Cursed One,High
+Nekker,Skellige,85,Common,39,Ogroid,Medium
+Bruxa,Velen,18,Rare,46,Vampire,Very High
+Siren,Vizima,50,Uncommon,61,Hybrid,Medium
+Alghoul,Velen,64,Common,40,Necrophage,Medium
+Noonwraith,Beauclair,16,Rare,68,Specter,High
+Foglet,Toussaint,30,Uncommon,34,Necrophage,Medium
+Leshen,Kaer Morhen,8,Very Rare,136,Relict,Very High
+Katakan,Kaer Morhen,45,Uncommon,50,Vampire,Very High
+Basilisk,Novigrad,11,Very Rare,122,Draconid,High
+Botchling,Beauclair,18,Rare,97,Cursed One,Medium
+Siren,Temeria,40,Uncommon,51,Hybrid,Medium
+Basilisk,White Orchard,11,Very Rare,121,Draconid,High
+Hym,Kaer Morhen,9,Very Rare,87,Specter,Very High
+Griffin,Beauclair,16,Rare,56,Draconid,High
+Fiend,Oxenfurt,18,Rare,40,Relict,High
+Nightwraith,Velen,37,Uncommon,69,Specter,High
+Drowner,Vizima,61,Common,28,Necrophage,Medium
+Fiend,Velen,15,Rare,98,Relict,High
+Bruxa,White Orchard,20,Rare,94,Vampire,Very High
+Basilisk,Oxenfurt,11,Very Rare,142,Draconid,High
+Botchling,Skellige,29,Rare,97,Cursed One,Medium
+Alghoul,Beauclair,89,Common,23,Necrophage,Medium
+Ekimmara,Velen,41,Uncommon,53,Vampire,High
+Werewolf,Kaer Morhen,16,Rare,76,Cursed One,High
+Wraith,White Orchard,53,Common,28,Specter,High
+Nekker,Velen,67,Common,26,Ogroid,Medium
+Alghoul,Toussaint,100,Common,44,Necrophage,Medium
+Botchling,Toussaint,30,Rare,90,Cursed One,Medium
+Striga,Toussaint,20,Rare,66,Cursed One,Very High
+Drowner,Oxenfurt,67,Common,49,Necrophage,Medium
+Foglet,Toussaint,43,Uncommon,48,Necrophage,Medium
+Nekker,Velen,78,Common,49,Ogroid,Medium
+Wraith,Temeria,61,Common,23,Specter,High
+Ekimmara,Vizima,50,Uncommon,70,Vampire,High
+Ghoul,White Orchard,54,Common,50,Necrophage,Medium
+Botchling,Velen,24,Rare,54,Cursed One,Medium
+Lubberkin,Temeria,29,Rare,48,Cursed One,Medium
+Hym,White Orchard,11,Very Rare,141,Specter,Very High
+Nekker,Kaer Morhen,97,Common,21,Ogroid,Medium
+Fleder,Novigrad,69,Common,42,Vampire,High
+Hym,White Orchard,6,Very Rare,133,Specter,Very High
+Fleder,Oxenfurt,79,Common,49,Vampire,High
+Hym,Oxenfurt,9,Very Rare,137,Specter,Very High
+Botchling,Velen,16,Rare,96,Cursed One,Medium
+Nekker,Kaer Morhen,73,Common,49,Ogroid,Medium
+Foglet,Novigrad,43,Uncommon,44,Necrophage,Medium
+Striga,Toussaint,29,Rare,48,Cursed One,Very High
+Hym,Novigrad,9,Very Rare,147,Specter,Very High
+Striga,Oxenfurt,17,Rare,93,Cursed One,Very High
+Ekimmara,Novigrad,38,Uncommon,56,Vampire,High
+Striga,Velen,30,Rare,54,Cursed One,Very High
+Striga,Temeria,15,Rare,42,Cursed One,Very High
+Ekimmara,Skellige,41,Uncommon,70,Vampire,High
+Drowner,Velen,63,Common,29,Necrophage,Medium
+Wraith,Velen,81,Common,28,Specter,High
+Ghoul,Temeria,68,Common,20,Necrophage,Medium
+Wraith,Temeria,91,Common,42,Specter,High
+Noonwraith,Temeria,18,Rare,77,Specter,High
+Ghoul,Toussaint,64,Common,23,Necrophage,Medium
+Griffin,Toussaint,30,Rare,96,Draconid,High
+Fleder,Kaer Morhen,59,Common,40,Vampire,High
+Striga,Kaer Morhen,15,Rare,96,Cursed One,Very High
+Lubberkin,Oxenfurt,21,Rare,91,Cursed One,Medium
+Striga,Toussaint,20,Rare,98,Cursed One,Very High
+Striga,Velen,26,Rare,98,Cursed One,Very High
+Alghoul,White Orchard,90,Common,26,Necrophage,Medium
+Alghoul,Novigrad,67,Common,37,Necrophage,Medium
+Ekimmara,Temeria,30,Uncommon,35,Vampire,High
+Basilisk,Skellige,11,Very Rare,124,Draconid,High
+Wyvern,White Orchard,56,Common,43,Draconid,High
+Hym,Novigrad,7,Very Rare,78,Specter,Very High
+Bruxa,Kaer Morhen,23,Rare,55,Vampire,Very High
+Hym,Kaer Morhen,11,Very Rare,50,Specter,Very High
+Nekker,Oxenfurt,67,Common,50,Ogroid,Medium
+Bruxa,Toussaint,30,Rare,95,Vampire,Very High
+Noonwraith,Skellige,26,Rare,41,Specter,High
+Siren,Novigrad,41,Uncommon,53,Hybrid,Medium
+Botchling,Temeria,20,Rare,72,Cursed One,Medium
+Forktail,Beauclair,34,Uncommon,65,Draconid,High
+Katakan,Beauclair,36,Uncommon,69,Vampire,Very High
+Basilisk,Novigrad,7,Very Rare,131,Draconid,High
+Wyvern,White Orchard,73,Common,40,Draconid,High
+Fleder,Skellige,67,Common,34,Vampire,High
+Wraith,Skellige,74,Common,28,Specter,High
+Wraith,Oxenfurt,61,Common,40,Specter,High

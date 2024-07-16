@@ -1,0 +1,201 @@
+Witcher Name,School,Monster Name,Monster Type,Location,Reward (Crowns),Danger Level,Age of Witcher,Rarity,Slain Count
+Gaetan,Cat,Drowner,Necrophage,Kaer Morhen,62,Low,118,Common,7
+Lambert,Wolf,Striga,Cursed One,Toussaint,407,Very High,36,Very Rare,9
+Gaetan,Cat,Bruxa,Vampire,Skellige,720,Very High,25,Very Rare,7
+Vesemir,Wolf,Griffin,Draconid,Skellige,1292,High,123,Rare,9
+Geralt,Wolf,Drowner,Necrophage,Beauclair,348,Low,42,Common,16
+Kiyan,Viper,Foglet,Necrophage,Toussaint,502,Medium,52,Common,20
+Lambert,Wolf,Fleder,Vampire,Skellige,1153,High,30,Rare,9
+Lambert,Wolf,Fleder,Vampire,Beauclair,436,High,131,Rare,9
+Gaetan,Cat,Ekimmara,Vampire,Toussaint,398,Medium,63,Uncommon,29
+Gaetan,Cat,Werewolf,Cursed One,Skellige,1377,High,148,Rare,4
+Vesemir,Wolf,Hym,Specter,Skellige,733,Very High,91,Very Rare,6
+Aiden,Cat,Botchling,Cursed One,Toussaint,332,Medium,59,Common,14
+Coën,Griffin,Botchling,Cursed One,Velen,736,Medium,140,Common,2
+Kiyan,Viper,Hym,Specter,White Orchard,755,Very High,31,Very Rare,3
+Ciri,Cat,Wyvern,Draconid,Temeria,1043,High,102,Uncommon,13
+Lambert,Wolf,Leshen,Relict,Toussaint,1412,Very High,64,Rare,7
+Geralt,Wolf,Hym,Specter,Kaer Morhen,1378,Very High,125,Very Rare,6
+Coën,Griffin,Botchling,Cursed One,Vizima,287,Medium,52,Common,25
+Gaetan,Cat,Leshen,Relict,Skellige,488,Very High,82,Rare,5
+Kiyan,Viper,Griffin,Draconid,White Orchard,556,High,149,Rare,6
+Kiyan,Viper,Foglet,Necrophage,Skellige,349,Medium,120,Common,5
+Lambert,Wolf,Leshen,Relict,White Orchard,577,Very High,125,Rare,9
+Coën,Griffin,Botchling,Cursed One,Temeria,59,Medium,96,Common,7
+Ciri,Cat,Noonwraith,Specter,Kaer Morhen,1026,High,131,Rare,3
+Ciri,Cat,Wyvern,Draconid,Novigrad,305,High,27,Uncommon,15
+Vesemir,Wolf,Ekimmara,Vampire,White Orchard,293,Medium,73,Uncommon,21
+Geralt,Wolf,Lubberkin,Cursed One,Toussaint,621,Medium,115,Common,25
+Kiyan,Viper,Lubberkin,Cursed One,Toussaint,455,Medium,45,Common,6
+Geralt,Wolf,Lubberkin,Cursed One,Toussaint,350,Medium,80,Common,29
+Coën,Griffin,Ekimmara,Vampire,Toussaint,705,Medium,105,Uncommon,25
+Ciri,Cat,Foglet,Necrophage,Oxenfurt,480,Medium,121,Common,7
+Lambert,Wolf,Ekimmara,Vampire,Toussaint,705,Medium,53,Uncommon,7
+Letho,Viper,Fleder,Vampire,Vizima,261,High,36,Rare,8
+Kiyan,Viper,Wyvern,Draconid,Velen,1165,High,20,Uncommon,23
+Aiden,Cat,Werewolf,Cursed One,White Orchard,1046,High,45,Rare,4
+Aiden,Cat,Botchling,Cursed One,Beauclair,278,Medium,49,Common,24
+Kiyan,Viper,Drowner,Necrophage,Vizima,204,Low,80,Common,28
+Eskel,Wolf,Hym,Specter,Vizima,429,Very High,144,Very Rare,5
+Eskel,Wolf,Hym,Specter,Oxenfurt,494,Very High,33,Very Rare,9
+Geralt,Wolf,Bruxa,Vampire,White Orchard,1474,Very High,92,Very Rare,10
+Coën,Griffin,Ekimmara,Vampire,Kaer Morhen,567,Medium,34,Uncommon,15
+Coën,Griffin,Striga,Cursed One,Velen,1129,Very High,45,Very Rare,9
+Kiyan,Viper,Griffin,Draconid,White Orchard,300,High,134,Rare,6
+Coën,Griffin,Hym,Specter,White Orchard,1048,Very High,86,Very Rare,9
+Geralt,Wolf,Leshen,Relict,Temeria,608,Very High,57,Rare,1
+Geralt,Wolf,Ekimmara,Vampire,Skellige,479,Medium,39,Uncommon,3
+Eskel,Wolf,Griffin,Draconid,Toussaint,142,High,64,Rare,3
+Lambert,Wolf,Ekimmara,Vampire,Skellige,560,Medium,103,Uncommon,17
+Gaetan,Cat,Ekimmara,Vampire,Skellige,268,Medium,116,Uncommon,12
+Ciri,Cat,Lubberkin,Cursed One,Kaer Morhen,769,Medium,63,Common,29
+Coën,Griffin,Ekimmara,Vampire,Beauclair,76,Medium,87,Uncommon,4
+Letho,Viper,Werewolf,Cursed One,Toussaint,1295,High,72,Rare,9
+Geralt,Wolf,Werewolf,Cursed One,Temeria,181,High,25,Rare,9
+Kiyan,Viper,Lubberkin,Cursed One,Kaer Morhen,81,Medium,116,Common,22
+Kiyan,Viper,Lubberkin,Cursed One,Oxenfurt,461,Medium,41,Common,10
+Geralt,Wolf,Wyvern,Draconid,Toussaint,418,High,27,Uncommon,13
+Eskel,Wolf,Bruxa,Vampire,Kaer Morhen,1222,Very High,85,Very Rare,1
+Gaetan,Cat,Foglet,Necrophage,Kaer Morhen,678,Medium,58,Common,24
+Eskel,Wolf,Wyvern,Draconid,Toussaint,1074,High,60,Uncommon,5
+Letho,Viper,Noonwraith,Specter,Vizima,1401,High,58,Rare,1
+Eskel,Wolf,Noonwraith,Specter,Velen,1138,High,116,Rare,10
+Letho,Viper,Griffin,Draconid,Temeria,1041,High,145,Rare,8
+Lambert,Wolf,Drowner,Necrophage,Temeria,347,Low,27,Common,17
+Vesemir,Wolf,Foglet,Necrophage,Oxenfurt,695,Medium,69,Common,11
+Aiden,Cat,Foglet,Necrophage,White Orchard,321,Medium,104,Common,28
+Ciri,Cat,Bruxa,Vampire,Skellige,740,Very High,144,Very Rare,3
+Gaetan,Cat,Striga,Cursed One,Skellige,1271,Very High,55,Very Rare,6
+Ciri,Cat,Bruxa,Vampire,Oxenfurt,1012,Very High,142,Very Rare,8
+Letho,Viper,Ekimmara,Vampire,Toussaint,618,Medium,91,Uncommon,30
+Vesemir,Wolf,Ekimmara,Vampire,Skellige,573,Medium,108,Uncommon,26
+Geralt,Wolf,Noonwraith,Specter,Vizima,357,High,149,Rare,1
+Coën,Griffin,Foglet,Necrophage,White Orchard,431,Medium,97,Common,14
+Ciri,Cat,Noonwraith,Specter,White Orchard,229,High,59,Rare,8
+Ciri,Cat,Werewolf,Cursed One,White Orchard,360,High,28,Rare,4
+Geralt,Wolf,Foglet,Necrophage,Oxenfurt,391,Medium,50,Common,10
+Eskel,Wolf,Ekimmara,Vampire,Kaer Morhen,367,Medium,76,Uncommon,30
+Kiyan,Viper,Hym,Specter,White Orchard,242,Very High,41,Very Rare,7
+Ciri,Cat,Striga,Cursed One,Novigrad,866,Very High,28,Very Rare,5
+Gaetan,Cat,Leshen,Relict,Kaer Morhen,315,Very High,149,Rare,7
+Gaetan,Cat,Fleder,Vampire,Skellige,1186,High,84,Rare,8
+Letho,Viper,Fleder,Vampire,Velen,1031,High,122,Rare,4
+Aiden,Cat,Noonwraith,Specter,Oxenfurt,1087,High,88,Rare,3
+Kiyan,Viper,Noonwraith,Specter,Oxenfurt,721,High,113,Rare,8
+Gaetan,Cat,Ekimmara,Vampire,Temeria,502,Medium,136,Uncommon,21
+Letho,Viper,Foglet,Necrophage,White Orchard,243,Medium,95,Common,9
+Geralt,Wolf,Botchling,Cursed One,Toussaint,790,Medium,24,Common,25
+Geralt,Wolf,Leshen,Relict,Temeria,1030,Very High,123,Rare,2
+Lambert,Wolf,Noonwraith,Specter,Oxenfurt,413,High,79,Rare,4
+Letho,Viper,Leshen,Relict,Velen,165,Very High,120,Rare,6
+Gaetan,Cat,Striga,Cursed One,Beauclair,672,Very High,32,Very Rare,2
+Lambert,Wolf,Noonwraith,Specter,Vizima,1403,High,90,Rare,7
+Kiyan,Viper,Hym,Specter,Novigrad,1490,Very High,93,Very Rare,2
+Coën,Griffin,Noonwraith,Specter,Temeria,1428,High,52,Rare,8
+Eskel,Wolf,Ekimmara,Vampire,Skellige,208,Medium,98,Uncommon,29
+Vesemir,Wolf,Botchling,Cursed One,Novigrad,363,Medium,29,Common,12
+Kiyan,Viper,Leshen,Relict,Temeria,533,Very High,23,Rare,5
+Eskel,Wolf,Griffin,Draconid,Velen,492,High,141,Rare,9
+Vesemir,Wolf,Striga,Cursed One,Skellige,162,Very High,61,Very Rare,8
+Letho,Viper,Drowner,Necrophage,Oxenfurt,721,Low,27,Common,23
+Eskel,Wolf,Striga,Cursed One,Vizima,883,Very High,102,Very Rare,8
+Ciri,Cat,Drowner,Necrophage,Vizima,529,Low,129,Common,1
+Geralt,Wolf,Bruxa,Vampire,Oxenfurt,721,Very High,134,Very Rare,4
+Vesemir,Wolf,Lubberkin,Cursed One,Skellige,538,Medium,21,Common,14
+Kiyan,Viper,Botchling,Cursed One,Toussaint,526,Medium,27,Common,27
+Coën,Griffin,Hym,Specter,Temeria,170,Very High,131,Very Rare,3
+Aiden,Cat,Lubberkin,Cursed One,White Orchard,155,Medium,94,Common,23
+Geralt,Wolf,Leshen,Relict,Skellige,1379,Very High,117,Rare,6
+Coën,Griffin,Botchling,Cursed One,Temeria,317,Medium,34,Common,15
+Coën,Griffin,Bruxa,Vampire,Velen,1436,Very High,100,Very Rare,2
+Lambert,Wolf,Fleder,Vampire,Oxenfurt,522,High,119,Rare,10
+Ciri,Cat,Fleder,Vampire,White Orchard,1311,High,148,Rare,6
+Kiyan,Viper,Striga,Cursed One,Novigrad,924,Very High,30,Very Rare,2
+Eskel,Wolf,Bruxa,Vampire,White Orchard,1390,Very High,110,Very Rare,9
+Kiyan,Viper,Lubberkin,Cursed One,Kaer Morhen,92,Medium,143,Common,30
+Eskel,Wolf,Griffin,Draconid,Novigrad,239,High,74,Rare,6
+Geralt,Wolf,Leshen,Relict,Kaer Morhen,1249,Very High,49,Rare,7
+Vesemir,Wolf,Hym,Specter,Vizima,111,Very High,56,Very Rare,2
+Aiden,Cat,Ekimmara,Vampire,Velen,595,Medium,47,Uncommon,24
+Letho,Viper,Ekimmara,Vampire,Toussaint,436,Medium,44,Uncommon,13
+Vesemir,Wolf,Werewolf,Cursed One,Vizima,722,High,139,Rare,8
+Aiden,Cat,Werewolf,Cursed One,Velen,1105,High,76,Rare,7
+Lambert,Wolf,Ekimmara,Vampire,Skellige,660,Medium,37,Uncommon,5
+Ciri,Cat,Fleder,Vampire,Novigrad,291,High,43,Rare,2
+Coën,Griffin,Werewolf,Cursed One,Kaer Morhen,132,High,123,Rare,5
+Coën,Griffin,Noonwraith,Specter,Vizima,1474,High,65,Rare,8
+Geralt,Wolf,Lubberkin,Cursed One,Oxenfurt,181,Medium,75,Common,17
+Kiyan,Viper,Lubberkin,Cursed One,White Orchard,711,Medium,74,Common,13
+Aiden,Cat,Ekimmara,Vampire,Oxenfurt,372,Medium,29,Uncommon,26
+Ciri,Cat,Werewolf,Cursed One,Oxenfurt,243,High,73,Rare,5
+Letho,Viper,Lubberkin,Cursed One,White Orchard,183,Medium,149,Common,28
+Eskel,Wolf,Striga,Cursed One,Skellige,483,Very High,119,Very Rare,9
+Geralt,Wolf,Werewolf,Cursed One,White Orchard,553,High,110,Rare,7
+Coën,Griffin,Drowner,Necrophage,Temeria,796,Low,148,Common,13
+Vesemir,Wolf,Drowner,Necrophage,Velen,79,Low,148,Common,28
+Ciri,Cat,Bruxa,Vampire,Beauclair,284,Very High,52,Very Rare,5
+Kiyan,Viper,Wyvern,Draconid,Velen,764,High,40,Uncommon,17
+Gaetan,Cat,Leshen,Relict,Kaer Morhen,1448,Very High,99,Rare,9
+Aiden,Cat,Lubberkin,Cursed One,Beauclair,498,Medium,134,Common,4
+Geralt,Wolf,Bruxa,Vampire,Vizima,103,Very High,86,Very Rare,2
+Kiyan,Viper,Drowner,Necrophage,Skellige,219,Low,32,Common,22
+Eskel,Wolf,Werewolf,Cursed One,Novigrad,325,High,101,Rare,7
+Letho,Viper,Griffin,Draconid,Oxenfurt,1172,High,113,Rare,2
+Geralt,Wolf,Foglet,Necrophage,Vizima,696,Medium,57,Common,24
+Lambert,Wolf,Foglet,Necrophage,Vizima,695,Medium,85,Common,25
+Vesemir,Wolf,Leshen,Relict,Oxenfurt,317,Very High,39,Rare,1
+Ciri,Cat,Hym,Specter,Kaer Morhen,785,Very High,102,Very Rare,1
+Geralt,Wolf,Ekimmara,Vampire,Beauclair,311,Medium,83,Uncommon,1
+Gaetan,Cat,Botchling,Cursed One,Toussaint,511,Medium,145,Common,11
+Geralt,Wolf,Griffin,Draconid,Velen,1200,High,132,Rare,9
+Geralt,Wolf,Drowner,Necrophage,Oxenfurt,692,Low,110,Common,27
+Aiden,Cat,Wyvern,Draconid,Temeria,769,High,135,Uncommon,14
+Eskel,Wolf,Botchling,Cursed One,Velen,397,Medium,128,Common,11
+Vesemir,Wolf,Fleder,Vampire,Skellige,746,High,144,Rare,6
+Gaetan,Cat,Wyvern,Draconid,Temeria,1357,High,139,Uncommon,19
+Ciri,Cat,Foglet,Necrophage,Toussaint,249,Medium,124,Common,21
+Lambert,Wolf,Wyvern,Draconid,Oxenfurt,1040,High,150,Uncommon,12
+Lambert,Wolf,Griffin,Draconid,Skellige,426,High,131,Rare,9
+Kiyan,Viper,Drowner,Necrophage,Velen,549,Low,146,Common,15
+Eskel,Wolf,Foglet,Necrophage,White Orchard,400,Medium,136,Common,21
+Ciri,Cat,Fleder,Vampire,Skellige,866,High,148,Rare,1
+Kiyan,Viper,Wyvern,Draconid,Beauclair,489,High,91,Uncommon,24
+Aiden,Cat,Bruxa,Vampire,White Orchard,632,Very High,93,Very Rare,3
+Gaetan,Cat,Drowner,Necrophage,Temeria,215,Low,47,Common,30
+Coën,Griffin,Noonwraith,Specter,Velen,330,High,64,Rare,5
+Ciri,Cat,Botchling,Cursed One,Vizima,684,Medium,41,Common,24
+Eskel,Wolf,Lubberkin,Cursed One,Skellige,214,Medium,56,Common,22
+Ciri,Cat,Fleder,Vampire,Beauclair,976,High,139,Rare,10
+Kiyan,Viper,Noonwraith,Specter,Kaer Morhen,1321,High,42,Rare,9
+Vesemir,Wolf,Foglet,Necrophage,Toussaint,556,Medium,118,Common,8
+Geralt,Wolf,Striga,Cursed One,Oxenfurt,531,Very High,106,Very Rare,9
+Eskel,Wolf,Griffin,Draconid,Toussaint,470,High,93,Rare,3
+Ciri,Cat,Wyvern,Draconid,Oxenfurt,1373,High,140,Uncommon,21
+Ciri,Cat,Lubberkin,Cursed One,White Orchard,262,Medium,112,Common,26
+Vesemir,Wolf,Botchling,Cursed One,Novigrad,427,Medium,49,Common,20
+Gaetan,Cat,Botchling,Cursed One,Toussaint,193,Medium,147,Common,28
+Coën,Griffin,Leshen,Relict,White Orchard,1018,Very High,107,Rare,5
+Vesemir,Wolf,Wyvern,Draconid,Velen,105,High,35,Uncommon,4
+Geralt,Wolf,Fleder,Vampire,Beauclair,1065,High,21,Rare,6
+Lambert,Wolf,Wyvern,Draconid,Skellige,1492,High,56,Uncommon,8
+Vesemir,Wolf,Striga,Cursed One,Oxenfurt,491,Very High,101,Very Rare,2
+Geralt,Wolf,Striga,Cursed One,Velen,599,Very High,108,Very Rare,1
+Ciri,Cat,Werewolf,Cursed One,Kaer Morhen,728,High,36,Rare,1
+Letho,Viper,Striga,Cursed One,Skellige,549,Very High,118,Very Rare,4
+Letho,Viper,Fleder,Vampire,Kaer Morhen,661,High,71,Rare,8
+Gaetan,Cat,Wyvern,Draconid,Skellige,1143,High,53,Uncommon,6
+Coën,Griffin,Wyvern,Draconid,Oxenfurt,548,High,67,Uncommon,26
+Geralt,Wolf,Fleder,Vampire,Vizima,1135,High,99,Rare,6
+Lambert,Wolf,Drowner,Necrophage,White Orchard,230,Low,67,Common,12
+Lambert,Wolf,Wyvern,Draconid,Vizima,404,High,32,Uncommon,25
+Kiyan,Viper,Ekimmara,Vampire,Vizima,329,Medium,47,Uncommon,13
+Kiyan,Viper,Griffin,Draconid,Skellige,413,High,20,Rare,10
+Aiden,Cat,Ekimmara,Vampire,Kaer Morhen,209,Medium,130,Uncommon,5
+Coën,Griffin,Bruxa,Vampire,Skellige,1037,Very High,87,Very Rare,2
+Eskel,Wolf,Striga,Cursed One,Toussaint,862,Very High,98,Very Rare,9
+Kiyan,Viper,Wyvern,Draconid,Velen,103,High,130,Uncommon,13
+Coën,Griffin,Drowner,Necrophage,Beauclair,72,Low,85,Common,7
+Vesemir,Wolf,Leshen,Relict,White Orchard,147,Very High,67,Rare,3
+Gaetan,Cat,Leshen,Relict,Kaer Morhen,604,Very High,74,Rare,4
+Coën,Griffin,Werewolf,Cursed One,Skellige,406,High,59,Rare,8
+Lambert,Wolf,Bruxa,Vampire,Velen,127,Very High,98,Very Rare,3
